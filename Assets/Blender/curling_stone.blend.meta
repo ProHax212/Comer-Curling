@@ -9,21 +9,26 @@ ModelImporter:
     100002: //RootNode
     100004: curling_stone
     100006: curling_stone_edit
+    100008: curling_stone_collider
     400000: cap_edit
     400002: //RootNode
     400004: curling_stone
     400006: curling_stone_edit
+    400008: curling_stone_collider
     2300000: cap_edit
     2300002: curling_stone
     2300004: curling_stone_edit
     2300006: //RootNode
+    2300008: curling_stone_collider
     3300000: cap_edit
     3300002: curling_stone
     3300004: curling_stone_edit
     3300006: //RootNode
+    3300008: curling_stone_collider
     4300000: cap_edit
     4300002: curling_stone_edit
     4300004: curling_stone
+    4300006: curling_stone_collider
     7400000: Default Take
     9500000: //RootNode
   externalObjects:
